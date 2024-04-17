@@ -22,7 +22,13 @@
 - Purchase features in the game
 
 ⚙️ How to Use NotQuiz:
-1.
+1. Buy NQZ from exchanges
+2. Earn NQZ in-game
+3. Engage in activities for free NQZ
 
-Thinking about what you sent...
-If the bot doesn't respond, please /new_chat before asking.
+🔗 Related Pages:
+- 🔮 Website: https://notQuiz.fun
+- 😸 GitHub: github.com/Not-Quiz
+- 🐦 Twitter: x.com/NotQuez_NQZ
+- ✈️ Telegram channel: @NotQuiz
+- ✈️ Telegram group: @NotQuizCommunity
