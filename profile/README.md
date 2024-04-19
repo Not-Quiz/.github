@@ -9,29 +9,30 @@
 - 🔥 15% for burning
 - ⚙️ 10% for project development
 - 📈 5% for capital pool
-
+  
+<div>
+  
 🎯 Purpose of Token Release:
 - Create prizes and bonuses for active users
 - Encourage better performance
 - Clarify rewards
 - Organize internal digital economy
 
+<div>
+
 💡 Ways to use NotQuiz:
 - Get rewarded for correct answers
 - Receive awards for ratings
 - Purchase features in the game
+
+<div>
 
 ⚙️ How to Use NotQuiz:
 1. Buy NQZ from exchanges
 2. Earn NQZ in-game
 3. Engage in activities for free NQZ
 
-
-
-
-
-## Languages and Tools 
-<div>
+----
 
 ### Languages:
 | Python3 | json | JS | Solidity |
