@@ -27,8 +27,8 @@
 3. Engage in activities for free NQZ
 
 🔗 Related Pages:
-- 🔮 Website: https://notQuiz.fun
+- 🔮 Website: https://notQuiz.online | https://notQuiz.fun
 - 😸 GitHub: github.com/Not-Quiz
-- 🐦 Twitter: x.com/NotQuez_NQZ
+- 🐦 Twitter: x.com/NotQuiz_NQZ
 - ✈️ Telegram channel: @NotQuiz
 - ✈️ Telegram group: @NotQuizCommunity
