@@ -90,4 +90,5 @@ The NQZ token was created as a communication incentive and reward tool for users
 - 🤖 Telegram BOT: https://t.me/NotQuizBot
 - ✈️ Telegram group: https://t.me/NotQuizCommunity
 - 💎 **TonApp** : https://ton.app/games/not-quiz?id=1716
-- 💎 Tonviewer : [TonViewer Contract](https://tonviewer.com/EQAxp3EO7LC59yZoHetrSdVzn23ribkNFZ2fupreehe6ltJx?section=holders)
+- 💎 **Dyor** : [**Dyor** Contract Price](https://dyor.io/token/EQAxp3EO7LC59yZoHetrSdVzn23ribkNFZ2fupreehe6ltJx)
+- 💎 Tonviewer : [TonViewer Contract](https://tonviewer.com/EQAxp3EO7LC59yZoHetrSdVzn23ribkNFZ2fupreehe6ltJx?section=jetton)
