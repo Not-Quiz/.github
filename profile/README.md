@@ -70,7 +70,7 @@ How to use NotQuit:
 Conclusion:
 The NQZ token was created as a communication incentive and reward tool for users of the "NotQuiz" project. This token enables the integration of game rewards and points digitally and improves the user experience for participants.
 
-====
+-----
 
 ### Languages:
 | Python3 | json | JS | Solidity |
