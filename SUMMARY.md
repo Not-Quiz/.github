@@ -4,7 +4,7 @@
 
 ## 🤖 Bot
 
-* [Untitled](bot/untitled.md)
+* [What does the Bot do?](bot/what-does-the-bot-do.md)
 
 ## 📱 MiniApp
 
